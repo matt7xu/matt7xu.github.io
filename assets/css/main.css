@@ -3785,5 +3785,10 @@ input, select, textarea {
 		}
 
 .image_skill{
-	width: 50%;
+	display: inline-block;
+	width: 100%
+}
+
+.image_skill img{
+	width: 100%
 }
