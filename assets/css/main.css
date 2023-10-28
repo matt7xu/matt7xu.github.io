@@ -3792,3 +3792,7 @@ input, select, textarea {
 .image_skill img{
 	width: 100%
 }
+
+.image_project {
+	width: 50%
+}
